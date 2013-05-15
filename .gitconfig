@@ -1,0 +1,14 @@
+[alias]
+	aa = "add --all"
+	cm = "commit -m"
+	st = status
+	co = checkout
+	ci = commit
+	cl = clone
+	br = branch
+	last = "log -1 HEAD"
+[user]
+	name = Sunjae.Park
+	email = sunjae.park.kr@gmail.com
+[core]
+	excludesfile = ~/.gitignore
